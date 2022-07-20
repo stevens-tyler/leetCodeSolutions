@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\steve\Documents\LeetCode\1480. Running Sum of 1d Array\main.cpp(11,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  1480. Running Sum of 1d Array.vcxproj -> C:\Users\steve\Documents\LeetCode\1480. Running Sum of 1d Array\x64\Debug\1480. Running Sum of 1d Array.exe
