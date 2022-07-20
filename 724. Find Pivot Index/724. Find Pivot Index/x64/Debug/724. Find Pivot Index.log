@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\steve\Documents\LeetCode\724. Find Pivot Index\724. Find Pivot Index\main.cpp(14,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  724. Find Pivot Index.vcxproj -> C:\Users\steve\Documents\LeetCode\724. Find Pivot Index\724. Find Pivot Index\x64\Debug\724. Find Pivot Index.exe
